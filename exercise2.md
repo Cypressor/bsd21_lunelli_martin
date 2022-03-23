@@ -11,6 +11,6 @@
 | git add "..."																	|	add file to staging area																|
 | git add .																			| add all files in directory to staging area							|
 | git commit -m “...”														| creates new version from staging area and adds comment	|
-| 
+| git push <remote> <branch>										|	pushes <branch> to repository <remote>									|
 
 ***
