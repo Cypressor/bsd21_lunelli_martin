@@ -12,3 +12,9 @@ For any questions about the project contact "martin.lunelli@hotmail.com".
 
 ### Exercise list:
 [Exercise 1](exercise1)
+
+### Contact information:
+Author:         Martin Lunelli
+Email:          s51166@edu.campus02.at
+GitHub:         [GitHub]https://github.com/Cypressor
+Organisation:   [Organisation]https://www.campus02.at
