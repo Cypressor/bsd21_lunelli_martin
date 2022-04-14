@@ -14,3 +14,6 @@
 ![Image](media/images/img3.PNG)
 
 -could not finish the exercise, because the code to build the project that was given in the tutorial seems to be faulty.
+
+-i ran the class file that was built by the IDE
+![Image](media/images/img4.PNG)
