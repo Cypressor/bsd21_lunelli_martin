@@ -4,24 +4,22 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupIdCal>org.example</groupIdCal>
+    <groupId>org.example</groupId>
     <artifactId>bsd21_lunelli_martin</artifactId>
     <version>1.0-SNAPSHOT</version>
-<build> 
- <plugins> 
- <plugin> 
- <groupId>org.apache.maven.plugins</groupId>
- <artifactId>maven-compiler-plugin</artifactId>
-Konfig Uebung03 - Maven Projektstruktur - 
-Kopie.docx Seite 9 von 11
-Institut Internettechnologien und -Anwendungen
- <version>3.8.5</version> 
- <configuration> 
- <release>18</release> 
- </configuration> 
- </plugin> 
- </plugins> 
- </build> 
+
+<build>
+<plugins>
+<plugin>
+<groupId>org.apache.maven.plugins</groupId>
+<artifactId>maven-compiler-plugin</artifactId>
+<version>3.8.0</version>
+<configuration>
+<release>17</release>
+</configuration>
+</plugin>
+</plugins>
+</build>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
