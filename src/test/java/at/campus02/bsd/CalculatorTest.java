@@ -78,4 +78,26 @@ class CalculatorTest
         double number2=10;
         assertEquals(number1/number2,calculator.divide(number1,number2),"20/10 must be 2");
     }
+
+    @Test
+    void facultyTest1()
+    {
+        Calculator calculator = new Calculator();
+        assertEquals(1,calculator.faculty(0),"faculty of 0 must be 1");
+    }
+
+    @Test
+    void facultyTest2()
+    {
+        Calculator calculator = new Calculator();
+        assertEquals(3628800,calculator.faculty(10), "faculty of 1 must be 1");
+    }
+
+    @Test
+    void facultyTest3()
+    {
+        Calculator calculator = new Calculator();
+        assertEquals(0,calculator.faculty(-10), "faculty of 1 must be 1");
+    }
+
 }

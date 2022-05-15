@@ -26,4 +26,11 @@ public class Calculator
         result=number1/number2;
         return result;
     }
+
+    public int faculty(int number)
+    {
+        int result= 0;
+        return  result;
+    }
+
 }
