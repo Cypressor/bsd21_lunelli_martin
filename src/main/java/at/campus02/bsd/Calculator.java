@@ -30,6 +30,21 @@ public class Calculator
     public int faculty(int number)
     {
         int result= 0;
+        if(number>0)
+        {
+            result=1;
+            for(int i = 1;i<=number;i++)
+            {
+                result=result*i;
+            }
+        }
+        else if(number==0)
+        {
+            result=1;
+        }
+        else
+        {
+        }
         return  result;
     }
 
