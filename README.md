@@ -12,10 +12,10 @@ This game is still work in progress and is not expected to be finished any time 
 For any questions about the project contact "martin.lunelli@hotmail.com".
 
 ### Exercise list:
-[Exercise 1](exercise1)
-[Exercise 2](exercise2)
-[Exercise 3](exercise3)
-[Exercise 4](exercise4)
+[Exercise 1](exercise1.md)
+[Exercise 2](exercise2.md)
+[Exercise 3](exercise3.md)
+[Exercise 4](exercise4.md)
 
 ### Contact information:
 Author:         Martin Lunelli
