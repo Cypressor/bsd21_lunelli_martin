@@ -1,6 +1,5 @@
 package at.campus02.bsd;
 
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -8,7 +7,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class CalculatorTest
 {
-
     @BeforeEach
     void setUp()
     {
@@ -77,6 +75,16 @@ class CalculatorTest
         double number1=20;
         double number2=10;
         assertEquals(number1/number2,calculator.divide(number1,number2),"20/10 must be 2");
+    }
+
+    @Test
+    void divideTest3()
+    {
+        Calculator calculator = new Calculator();
+
+        assertThrows(ArithmeticException.class, () -> {
+            calculator.divide(5, 0);
+        });
     }
 
     @Test

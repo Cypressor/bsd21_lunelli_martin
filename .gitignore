@@ -3,5 +3,6 @@
 *.html
 *.pdf
 .idea
-target/
+target
 *.log
+log4j2.xml
