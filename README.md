@@ -27,7 +27,3 @@ Organisation:   [Organisation]https://www.campus02.at
 ### Template Files:
 These template files must be configured to run the program properly. First delete the .template ending from the file, the configure the file to your liking. 
 C:\GitRepos\bsd21_lunelli_martin\src\main\resources
-
-### For Mr. Hofer:
-My "resource" folder is called "media".
-This is the case, because I am using it since "UEBUNG1" and would therefore have to edit every single reference in all my files if i would rename it.

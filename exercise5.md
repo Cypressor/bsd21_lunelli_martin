@@ -21,7 +21,7 @@ Logdatei geschrieben.
 - Muster der Log-Nachrichten kann umkonfiguriert werden
 
 Screenshots:
-![Image](media/images/ex5_1.PNG)
-![Image](media/images/ex5_2.PNG)
-![Image](media/images/ex5_3.PNG)
-![Image](media/images/ex5_4.PNG)
+![Image](resources/images/ex5_1.PNG)
+![Image](resources/images/ex5_2.PNG)
+![Image](resources/images/ex5_3.PNG)
+![Image](resources/images/ex5_4.PNG)

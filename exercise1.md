@@ -1,7 +1,7 @@
 # Further Information
 
 ### Photos:
-![Image](media/images/img1.PNG)
+![Image](resources/images/img1.PNG)
 
 ***
 ### Engine:
