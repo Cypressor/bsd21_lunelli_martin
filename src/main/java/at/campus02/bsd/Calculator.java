@@ -2,6 +2,7 @@ package at.campus02.bsd;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+
 /**
  * This class is a simple calculator, that calculates stuff, because it is very useful to do so.#
  * @author Martin Lunelli

@@ -1,0 +1,14 @@
+<project name="BSD21 Documentation Demo">
+    <publishDate position="right"/>
+    <version position="left"/>
+    <body>
+
+        <menu name="Overview">
+            <item name="Good Style" href="good_style.md" />
+
+        </menu>
+        <menu ref="reports" />
+        <menu ref="parent" />
+        <menu ref="modules" />
+    </body>
+</project>
